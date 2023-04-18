@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I am currently learning about data, to become a data analyst <br>
+🌱 I am working with obsidian, and like to expand it whith plugins
