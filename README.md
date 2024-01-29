@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I am currently learning about data and python, to become a data analyst <br>
-🖤 I love developing applications in python (especially with streamlit).<br>
+🔭 I am a data analyst. <br>
+🖤 I love developing applications in python.<br>
 🌱 I am working with obsidian, and like to expand it whith plugins. <br>
 ⌨️ I share my lessons notes on [this website](https://share.note.sx/11facbe7124c27d45b5c3fe1cc49e97a#EBHLEzO5BZnetq/DlTd/a5tielrVWDcpJwuMwcpx3Kk).
