@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🔭 I am a data analyst. <br>
 🖤 I love developing applications in python.<br>
 🌱 I am working with obsidian, and like to expand it whith plugins. <br>
-⌨️ I share my lessons notes on [this website](https://share.note.sx/11facbe7124c27d45b5c3fe1cc49e97a#EBHLEzO5BZnetq/DlTd/a5tielrVWDcpJwuMwcpx3Kk).
+⌨️ I share my lessons notes on [this website](https://share.note.sx/qtz9e7vv#oLQCnbcTlY/Pu9Eqz2WUC8xm+RkhgLwjhd3Fl18zUKw).
