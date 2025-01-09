@@ -41,17 +41,4 @@ Here are some ideas to get you started:
 
 <a href="http://www.github.com/MelodyDuplaix"><img src="https://github-readme-stats.vercel.app/api?username=MelodyDuplaix&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MelodyDuplaix's GitHub stats" /></a>
 
-<a href="http://www.github.com/MelodyDuplaix"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MelodyDuplaix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/MelodyDuplaix" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyDuplaix&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
----
-
-<a href="https://github.com/devxb/gitanimals" align="center">
-<img
-  src="https://render.gitanimals.org/farms/MelodyDuplaix"
-  width="600"
-  height="200"
-  color="black"
-/>
-</a>
