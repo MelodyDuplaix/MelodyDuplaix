@@ -1,7 +1,6 @@
-Hi 👋 My name is Melody Duplaix
-===============================
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-IA Developper and Data Analyst
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Melody.;I%27m+a+french+Data+Analyst+and+IA+Develloper)](https://git.io/typing-svg)
 -------------------------------
 
 🔭 I am a data analyst. <br>
@@ -9,6 +8,7 @@ IA Developper and Data Analyst
 🌱 I am working with obsidian, and like to expand it whith plugins. <br>
 
 ---
+[![Melody's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MelodyDuplaix&theme=dracula)](https://github.com/MelodyDuplaix/github-readme-activity-graph)
 
 ### Skills 
 <p align="left">
@@ -19,3 +19,5 @@ IA Developper and Data Analyst
 ### Socials
                   
 <p align="left"> <a href="https://www.github.com/MelodyDuplaix" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/melody-duplaix-391672265/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
