@@ -8,7 +8,7 @@
 🌱 I am working with obsidian, and like to expand it whith plugins. <br>
 
 ---
-[![Melody's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MelodyDuplaix&theme=dracula)](https://github.com/MelodyDuplaix/github-readme-activity-graph)
+[![Melody's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MelodyDuplaix)](https://github.com/MelodyDuplaix/github-readme-activity-graph)
 
 ### Skills 
 <p align="left">
